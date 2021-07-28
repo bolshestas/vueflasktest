@@ -1,6 +1,6 @@
 # vueflasktest
 ## launching the application step 1
-cd backend/server/ python app.py
+---cd backend/server/ python app.py
 ---
 ## launching the application step 2
 cd frontend/client/ npm run dev
