@@ -2,8 +2,8 @@
 
 ``` bash
 
-## launching the application step 1
-serve with hot reload at localhost:5000
+# launching the application step 1
+#serve with hot reload at localhost:5000
 
 python app.py (backend/server/app.py)
 
